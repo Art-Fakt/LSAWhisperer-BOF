@@ -76,3 +76,4 @@ _bin/cloudap_bof.x86.o
 
 - Original tool: [LSA Whisperer](https://github.com/EvanMcBroom/lsa-whisperer) by Evan McBroom / SpecterOps (MIT License)
 - Adaptix C2 port: Adapted for the Adaptix BOF framework
+- BiG thanks to AdaptixC2 Developper which is really great - https://adaptix-framework.gitbook.io
